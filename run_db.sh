@@ -1,0 +1,1 @@
+flask --app evidence_db/evidence_api run --host 0.0.0.0 --port 3000

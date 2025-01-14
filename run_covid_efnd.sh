@@ -1,0 +1,1 @@
+python covid_efnd.py --test_dataset_type mmcovar --use_ollama --network_ollama
